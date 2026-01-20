@@ -2,4 +2,9 @@
 * Git e Github 
 */
 
-   Conteúdo inicial de Git.
+  Conteúdo inicial passo a passo
+
+  Lista de passos para subir uma alteração
+  - Adicionar arquivos na fila
+  - Empacotar e Etiquetar
+  - Enviar
